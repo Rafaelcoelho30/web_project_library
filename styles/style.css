@@ -161,10 +161,6 @@
 }
 
 .events__cover {
-  flex-grow: 1;
-  flex-shrink: 0;
-  flex-basis: 730px;
-  max-width: 780px;
   position: relative;
 }
 
